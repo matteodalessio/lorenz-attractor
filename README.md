@@ -5,5 +5,5 @@ This trivial example was created in p5.js a JS client-side library for creating 
 
 ## Result
 
-![Alt Text](https://media.giphy.com/media/Y0zWFUF1Ij0kQtivHq/giphy.gif)
+![Alt Text](https://media.giphy.com/media/U72H9zyC0f9e5ycXml/giphy.gif)
 
